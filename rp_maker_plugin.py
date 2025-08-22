@@ -18,7 +18,7 @@ if os.path.exists(directory_path):
 
 
 toolset.registerGuiMenuButton(
-    buttonText='Simbased tools|RP maker mid circles', 
+    buttonText='RP maker mid circles', 
     object=Activator(os.path.join(thisDir, 'rp_makerDB.py')),
     kernelInitString='import rp_maker',
     messageId=AFXMode.ID_ACTIVATE,
@@ -29,3 +29,4 @@ toolset.registerGuiMenuButton(
     description='N/A',
     helpUrl='N/A'
 )
+

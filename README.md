@@ -1,5 +1,7 @@
 # Abaqus_plugin_rp_mid_circle_coupling
-Plugins allows Abaqus users to create an RP at the middle of a circle and create a kinematic coupling between the circle and this new RP
+Plugins allows Abaqus users to create an RP at the middle of a circle and create a kinematic coupling between the circle and this new RP.
+
+Developped in collaboration with SIMBASED.COM
 
 You can install a plugin following this tutorial -- https://www.youtube.com/watch?v=wQ26PCPBynQ
 
